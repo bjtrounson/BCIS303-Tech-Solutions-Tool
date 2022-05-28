@@ -1,0 +1,832 @@
+{
+    "techConcepts": [
+        {
+            "name": "Big Data",
+            "potentialApplications": [
+                {
+                    "name": "Predictive Assessments",
+                    "implementations": []
+                },
+                {
+                    "name": "Data Analysis",
+                    "implementations": []
+                },
+                {
+                    "name": "Visualization of Data Analytics",
+                    "implementations": ["Amazon Kinesis", "Apache Spark", "Tableau"]
+                },
+                {
+                    "name": "Real-time decision support",
+                    "implementations": []
+                },
+                {
+                    "name": "Real-time data monitoring",
+                    "implementations": []
+                },
+                {
+                    "name": "Data Processing",
+                    "implementations": ["Amazon Kinesis", "Apache Spark", "Tableau"]
+                },
+                {
+                    "name": "Data Modeling",
+                    "implementations": ["Amazon Kinesis", "Apache Spark", "Tableau"]
+                },
+                {
+                    "name": "Data Storage",
+                    "implementations": ["Amazon Kinesis", "Apache Spark", "Tableau"]
+                },
+                {
+                    "name": "Training / Machine Learning datasets for AI",
+                    "implementations": ["Machine Learning Ledger Orchestration for Drug Discovery"]
+                },
+                {
+                    "name": "Algorithm Development and Testing",
+                    "implementations": []
+                },
+                {
+                    "name": "Large Data Pools",
+                    "implementations": ["Machine Learning Ledger Orchestration for Drug Discovery"]
+                },
+                {
+                    "name": "Game Recommendation and Interest Matching Systems",
+                    "implementations": ["Steam Labs", "Tinder"]
+                },
+                {
+                    "name": "Blockchain-based distribution",
+                    "implementations": ["Machine Learning Ledger Orchestration for Drug Discovery"]
+                }
+            ]
+        },
+        {
+            "name": "Internet Of Things (IoT)",
+            "potentialApplications": [
+                {
+                    "name": "Data Collection and Sensors",
+                    "implementations": []
+                },
+                {
+                    "name": "Track Objects",
+                    "implementations": []
+                },
+                {
+                    "name": "Sensor Mesh Networks (e.g. Large Scale underwater sensor mesh networks)",
+                    "implementations": []
+                },
+                {
+                    "name": "Integrated soldier systems",
+                    "implementations": []
+                },
+                {
+                    "name": "AI and Analytical Computation",
+                    "implementations": []
+                },
+                {
+                    "name": "Embedded Storage",
+                    "implementations": []
+                },
+                {
+                    "name": "Decentralized Computation",
+                    "implementations": []
+                },
+                {
+                    "name": "Real-time data monitoring (e.g. Real time data on road conditions and traffic)",
+                    "implementations": ["McDonald's Digital Ordering Kiosks", "Digital Nervous System in General Motors cars"]
+                },
+                {
+                    "name": "Digital Kiosks",
+                    "implementations": ["McDonald's Digital Ordering Kiosks"]
+                },
+                {
+                    "name": "Smart Devices (e.g. Smart Lights, Speakers, Outlets and Doors)",
+                    "implementations": ["Googles Nest Smart Device eco-system", "Signify Smart lights", "Amazon Echo and Echo Flex"]
+                },
+                {
+                    "name": "Remote Troubleshooting",
+                    "implementations": ["Caterpillar's new generation of industrial equipment"]
+                },
+                {
+                    "name": "Performance Optimization and Management",
+                    "implementations": ["Caterpillar's new generation of industrial equipment", "Apple IPhones"]
+                },
+                {
+                    "name": "Telematic Driven Services",
+                    "implementations": ["Caterpillar's new generation of industrial equipment"]
+                },
+                {
+                    "name": "TV and fridges connecting to Smart Phone apps",
+                    "implementations": ["Samsung TV's and fridges"]
+                },
+                {
+                    "name": "Autonomous driving",
+                    "implementations": ["Telsa cars"]
+                },
+                {
+                    "name": "Enchanted driving safety features",
+                    "implementations": ["Telsa cars"]
+                },
+                {
+                    "name": "Energy management",
+                    "implementations": ["Signify Smart Lights"]
+                },
+                {
+                    "name": "Creation of personalized skin lotion",
+                    "implementations": ["Shiseido Mixer device"]
+                },
+                {
+                    "name": "Robotic dog",
+                    "implementations": ["Sony's Robotic dog Aibo"]
+                },
+                {
+                    "name": "Face and Object recognition",
+                    "implementations": ["Simcam in-home security cameras"]
+                },
+                {
+                    "name": "Light detection and ranging",
+                    "implementations": ["Digital Nervous System in General Motors cars"]
+                },
+                {
+                    "name": "Over the air software updates",
+                    "implementations": ["Digital Nervous System in General Motors cars"]
+                },
+                {
+                    "name": "Host-AI Software",
+                    "implementations": []
+                },
+                {
+                    "name": "Detect Events from cameras",
+                    "implementations": ["Simcam in-home security cameras"]
+                }
+            ]
+        },
+        {
+            "name": "Artificial Intelligence",
+            "potentialApplications": [
+                {
+                    "name": "Automated Robotic Systems",
+                    "implementations": []
+                },
+                {
+                    "name": "Automated Digital Agents",
+                    "implementations": []
+                },
+                {
+                    "name": "Social Systems",
+                    "implementations": []
+                },
+                {
+                    "name": "Advanced Analytical Systems",
+                    "implementations": []
+                },
+                {
+                    "name": "Decision making",
+                    "implementations": []
+                },
+                {
+                    "name": "Human-machine / AI teaming and collaboration",
+                    "implementations": ["Adobe Sensei"]
+                },
+                {
+                    "name": "Synthetic/Virtual Realities",
+                    "implementations": []
+                },
+                {
+                    "name": "Cognitive Sensors",
+                    "implementations": []
+                },
+                {
+                    "name": "Managing flow and congestion of communication network traffic",
+                    "implementations": []
+                },
+                {
+                    "name": "Decision Making (Expert Systems)",
+                    "implementations": []
+                },
+                {
+                    "name": "Human-level Generalized Intelligence",
+                    "implementations": []
+                },
+                {
+                    "name": "Deep Fakes",
+                    "implementations": []
+                },
+                {
+                    "name": "Chat and Social Media bot's",
+                    "implementations": ["Lemonade's payment processor"]
+                },
+                {
+                    "name": "Embedded analytics and information flow for soldiers",
+                    "implementations": []
+                },
+                {
+                    "name": "Improved mission mapping",
+                    "implementations": []
+                },
+                {
+                    "name": "Identify security-relevant information through social media data",
+                    "implementations": []
+                },
+                {
+                    "name": "Weapon auto-targeting",
+                    "implementations": []
+                },
+                {
+                    "name": "Content Search Engine optimization",
+                    "implementations": ["Adobe Sensei"]
+                },
+                {
+                    "name": "Car self-driving",
+                    "implementations": []
+                },
+                {
+                    "name": "Facial Recognition",
+                    "implementations": []
+                },
+                {
+                    "name": "Email spam filtering",
+                    "implementations": []
+                },
+                {
+                    "name": "Sensing and perception of physical things e.g. (Object and Image Recognition)",
+                    "implementations": ["Microsoft's HoloLens 2 MR Headset", "Pinterest Lens visual search engine"]
+                },
+                {
+                    "name": "Battle space Autonomy",
+                    "implementations": []
+                },
+                {
+                    "name": "Predictive maintenance",
+                    "implementations": []
+                },
+                {
+                    "name": "Record Tracking",
+                    "implementations": []
+                },
+                {
+                    "name": "Digital / Virtual Assistants using Voice Control",
+                    "implementations": ["Google Home", "Apple Siri", "Amazon Alexa", "FamilyHub refrigerators digital assistant", "Mercedes-Benz Voice Control", "Adobe Sensei"]
+                },
+                {
+                    "name": "Indication and Warning information management tools",
+                    "implementations": []
+                },
+                {
+                    "name": "Human terrain mapping",
+                    "implementations": []
+                },
+                {
+                    "name": "Social Network Analysis",
+                    "implementations": []
+                },
+                {
+                    "name": "Trajectory Planning",
+                    "implementations": []
+                },
+                {
+                    "name": "Collision Avoidance",
+                    "implementations": []
+                },
+                {
+                    "name": "Battle Damage Assessment",
+                    "implementations": []
+                },
+                {
+                    "name": "Effects Coordination",
+                    "implementations": []
+                },
+                {
+                    "name": "Operator Assistance (Controlling multiple UxVs)",
+                    "implementations": []
+                },
+                {
+                    "name": "Dynamic Mission planning (Real-time)",
+                    "implementations": []
+                },
+                {
+                    "name": "Detection Sensor Integration (Determining the position of sensors)",
+                    "implementations": []
+                },
+                {
+                    "name": "Data fusion and interpretation",
+                    "implementations": []
+                },
+                {
+                    "name": "Cost Analysis",
+                    "implementations": []
+                },
+                {
+                    "name": "Economic impact and driver assessments",
+                    "implementations": []
+                },
+                {
+                    "name": "Minimize System Failures and Equipment Downtime",
+                    "implementations": []
+                },
+                {
+                    "name": "Improve Inventory and Repair Management",
+                    "implementations": []
+                },
+                {
+                    "name": "Training Systems with virtual / augmented reality",
+                    "implementations": []
+                },
+                {
+                    "name": "Deciding Job Candidates",
+                    "implementations": []
+                },
+                {
+                    "name": "Recommending criminal defendants for bail",
+                    "implementations": []
+                },
+                {
+                    "name": "Personalized Menus",
+                    "implementations": ["THE.FIT"]
+                },
+                {
+                    "name": "In-game bots / AI Characters",
+                    "implementations": []
+                },
+                {
+                    "name": "Vehicle Part Designing",
+                    "implementations": []
+                },
+                {
+                    "name": "Music Composition",
+                    "implementations": ["OpenAI MuseNet"]
+                },
+                {
+                    "name": "Natural Language Processing / Speech Analysis (NLP)",
+                    "implementations": ["Google's BERT", "Baidu's ERNIE", "CARA AI-powered research platform for lawyers", "Cogito voice and sentiment analysis AI", "Adobe Sensei"]
+                },
+                {
+                    "name": "Extended Reality (Combo term for VR, AR and Mixed Reality)",
+                    "implementations": []
+                },
+                {
+                    "name": "Improved Citator Filtering Algorithm",
+                    "implementations": ["CARA AI-powered research platform for lawyers"]
+                },
+                {
+                    "name": "Fraud Detection",
+                    "implementations": ["Lemonade's payment processor"]
+                },
+                {
+                    "name": "Automated Customer Support",
+                    "implementations": ["Microsoft issue resolution", "Zendesk automated customer service", "Intercom customer support automation"]
+                },
+                {
+                    "name": "Presentation Coach",
+                    "implementations": ["Microsoft's presentation coach in PowerPoint"]
+                },
+                {
+                    "name": "Sentiment / Emotion Analysis",
+                    "implementations": ["Cogito voice and sentiment analysis AI"]
+                },
+                {
+                    "name": "Team Training",
+                    "implementations": ["Cogito voice and sentiment analysis AI"]
+                },
+                {
+                    "name": "Generative Design",
+                    "implementations": []
+                },
+                {
+                    "name": "Algorithmic Trading",
+                    "implementations": []
+                },
+                {
+                    "name": "Suggest Improvements and Personalized offers to customers",
+                    "implementations": ["Adobe Sensei"]
+                },
+                {
+                    "name": "Analyze customers digital traffic and behavior",
+                    "implementations": ["Adobe Sensei"]
+                },
+                {
+                    "name": "Analysis of skin and creation of skin lotion",
+                    "implementations": ["Optune App by Shiseido"]
+                },
+                {
+                    "name": "Material Discovery",
+                    "implementations": ["Kebotix DARQ AI System"]
+                },
+                {
+                    "name": "New House Layout Designs",
+                    "implementations": []
+                },
+                {
+                    "name": "New Furniture Designs",
+                    "implementations": []
+                },
+                {
+                    "name": "Drone Delivering",
+                    "implementations": []
+                },
+                {
+                    "name": "Visual Image Search",
+                    "implementations": ["Pinterest Lens visual search engine"]
+                },
+                {
+                    "name": "Energy Saving",
+                    "implementations": []
+                }
+            ]
+        },
+        {
+            "name": "Virtual Reality",
+            "potentialApplications": [
+                {
+                    "name": "Create new social and cultural realities",
+                    "implementations": []
+                },
+                {
+                    "name": "Augmented and virtual realities",
+                    "implementations": []
+                },
+                {
+                    "name": "Filming/Capturing movie scenes",
+                    "implementations": ["The Lion King live-action 2019 Movie"]
+                },
+                {
+                    "name": "Games",
+                    "implementations": []
+                },
+                {
+                    "name": "Education applications",
+                    "implementations": []
+                }
+            ]
+        },
+        {
+            "name": "Autonomy",
+            "potentialApplications": [
+                {
+                    "name": "Wireless or Wired Unmanned Vehicles (Air, Ground and Sea)",
+                    "implementations": ["UxVs uncrewed vehicles for air, sea and surface use", "Nikola Tesla's wireless remotely controlled unmanned boat", "UPS TuSimple autonomous trucking"]
+                },
+                {
+                    "name": "Search, detect and recognize threats of physical and virtual domains",
+                    "implementations": []
+                },
+                {
+                    "name": "Satellites",
+                    "implementations": []
+                },
+                {
+                    "name": "Logistics Deliveries (e.g. Robots, Room Service)",
+                    "implementations": ["Amazons Scout Delivery vehicle", "FlyZoo Alibaba's 290 room hotels, room service delivery robots"]
+                },
+                {
+                    "name": "Persistent Surveillance",
+                    "implementations": []
+                },
+                {
+                    "name": "Robotic Decoys",
+                    "implementations": []
+                },
+                {
+                    "name": "Miniaturization (Sensors, Satellites and Unmanned Vehicles / UxVs)",
+                    "implementations": []
+                },
+                {
+                    "name": "Rapid 3D environment modeling",
+                    "implementations": []
+                },
+                {
+                    "name": "Automated Production Lines",
+                    "implementations": []
+                },
+                {
+                    "name": "Autonomous software agents",
+                    "implementations": []
+                },
+                {
+                    "name": "Battle Damage Assessments",
+                    "implementations": []
+                },
+                {
+                    "name": "Improvised Explosive Device interrogation (Finding / Disarming IEDs) and Mine Counter Measures",
+                    "implementations": []
+                },
+                {
+                    "name": "Denied-area Intelligence Surveillance and Reconnaissance (ISR)",
+                    "implementations": []
+                },
+                {
+                    "name": "Anti-submarine warfare",
+                    "implementations": []
+                },
+                {
+                    "name": "Environmental Characterization",
+                    "implementations": []
+                },
+                {
+                    "name": "Warehouse / Fulfillment Center Robotics (e.g. Check Shelf Inventory, Sort Packages and Scrub Floors)",
+                    "implementations": ["Amazon's warehouse robots", "JD.com fully automated fulfillment center"]
+                },
+                {
+                    "name": "Aerial Refueling",
+                    "implementations": []
+                },
+                {
+                    "name": "Exoskeletons",
+                    "implementations": []
+                },
+                {
+                    "name": "Checkpoint Inspections",
+                    "implementations": []
+                },
+                {
+                    "name": "Collaborative Autonomy (Working as part of a human team)",
+                    "implementations": []
+                },
+                {
+                    "name": "Intelligence Surveillance and Reconnaissance (ISR)",
+                    "implementations": []
+                },
+                {
+                    "name": "Large numbers / swarms of autonomous vehicles (UxVs)",
+                    "implementations": []
+                },
+                {
+                    "name": "Chemical, biological, radiological and nuclear defense (CBRN)",
+                    "implementations": []
+                },
+                {
+                    "name": "Explosive Ordnance Disposal (EOD)",
+                    "implementations": []
+                },
+                {
+                    "name": "Transport Passengers and Cargo / Supplies (Logistics)",
+                    "implementations": []
+                },
+                {
+                    "name": "Search and Rescue Missions",
+                    "implementations": []
+                },
+                {
+                    "name": "Reduce Medical Causalities in war",
+                    "implementations": []
+                },
+                {
+                    "name": "Reduction of costs in manufacturing",
+                    "implementations": []
+                },
+                {
+                    "name": "Provide real-time data",
+                    "implementations": []
+                },
+                {
+                    "name": "Tying rebar",
+                    "implementations": ["TyBot that ties rebar"]
+                },
+                {
+                    "name": "Seeding, Weeding and Harvesting Fields",
+                    "implementations": []
+                },
+                {
+                    "name": "Job Interviewer",
+                    "implementations": []
+                },
+                {
+                    "name": "Employee and Customer Interaction (e.g. Handling situations and people)",
+                    "implementations": [" Amazon Scout Delivery Devices"]
+                },
+                {
+                    "name": "Pipeline inspections",
+                    "implementations": ["Boston Dynamics Spot robot"]
+                },
+                {
+                    "name": "3D Mapping",
+                    "implementations": ["Boston Dynamics Spot robot"]
+                },
+                {
+                    "name": "Quadrupedal Robot (e.g. Assistance Robots)",
+                    "implementations": ["Boston Dynamics Spot robot"]
+                },
+                {
+                    "name": "Provide Directions and Event Information",
+                    "implementations": []
+                },
+                {
+                    "name": "Support people with disabilities",
+                    "implementations": []
+                },
+                {
+                    "name": "Job Replacement",
+                    "implementations": []
+                },
+                {
+                    "name": "On-site data collection",
+                    "implementations": []
+                },
+                {
+                    "name": "Hauling of mined surface materials",
+                    "implementations": ["Komatsu's Front Runner autonomous haulage system"]
+                },
+                {
+                    "name": "Robotic Taxis",
+                    "implementations": []
+                },
+                {
+                    "name": "Automated Parking System",
+                    "implementations": []
+                }
+            ]
+        },
+        {
+            "name": "Communication Networks",
+            "potentialApplications": [
+                {
+                    "name": "Networks of overlapping real and virtual domains",
+                    "implementations": []
+                },
+                {
+                    "name": "Secure Communications (e.g. blockchain, quantum key distribution and post-quantum cryptography)",
+                    "implementations": []
+                },
+                {
+                    "name": "Web, Messaging Communication",
+                    "implementations": []
+                },
+                {
+                    "name": "Data Transfer",
+                    "implementations": []
+                },
+                {
+                    "name": "Virtual socio-cognitive / social spaces",
+                    "implementations": []
+                },
+                {
+                    "name": "New Analytical Methods",
+                    "implementations": []
+                },
+                {
+                    "name": "Mobile and WiFi Networks",
+                    "implementations": []
+                },
+                {
+                    "name": "AR experiences with live events",
+                    "implementations": []
+                },
+                {
+                    "name": "Remote surgeries and specialized training",
+                    "implementations": []
+                }
+            ]
+        },
+        {
+            "name": "Quantum Technologies",
+            "potentialApplications": [
+                {
+                    "name": "Ultra-sensitive sensors",
+                    "implementations": []
+                },
+                {
+                    "name": "Positioning, Navigation and Timing Systems (PNT)",
+                    "implementations": []
+                },
+                {
+                    "name": "Unbreakable Encryption and Decryption (Cryptography)",
+                    "implementations": []
+                },
+                {
+                    "name": "Quantum Computing / Computation",
+                    "implementations": []
+                },
+                {
+                    "name": "Covert Quantum Radar (e.g. Long range detection of aircraft, submarines and subterranean activities)",
+                    "implementations": []
+                },
+                {
+                    "name": "Gravimetric / Gravity, Magnetic and Acoustic Sensors",
+                    "implementations": []
+                },
+                {
+                    "name": "Magnetic Resonance Imaging",
+                    "implementations": []
+                },
+                {
+                    "name": "Energy Storage",
+                    "implementations": []
+                },
+                {
+                    "name": "Simulations and Optimization",
+                    "implementations": []
+                },
+                {
+                    "name": "New Algorithms",
+                    "implementations": []
+                },
+                {
+                    "name": "Creation / Development of new materials",
+                    "implementations": []
+                },
+                {
+                    "name": "Magnetic anomaly detection and Electromagnetic sensing",
+                    "implementations": []
+                },
+                {
+                    "name": "Target Identifications",
+                    "implementations": []
+                },
+                {
+                    "name": "Ultra-secure Quantum Communications Networks (e.g. Optical communications)",
+                    "implementations": []
+                },
+                {
+                    "name": "Anti-eavesdropping",
+                    "implementations": []
+                },
+                {
+                    "name": "Creation / Development of new materials",
+                    "implementations": []
+                }
+            ]
+        },
+        {
+            "name": "Cloud Computing",
+            "potentialApplications": [
+                {
+                    "name": "Data Collection, Processing and Storage",
+                    "implementations": ["Fortnite Game Server Hosting"]
+                },
+                {
+                    "name": "Game and Service Hosting",
+                    "implementations": ["Fortnite Game Server Hosting"]
+                },
+                {
+                    "name": "Connecting manufacturing robots together",
+                    "implementations": ["FANUC manufacturing robots"]
+                }
+            ]
+        },
+        {
+            "name": "Data Encryption",
+            "potentialApplications": [
+                {
+                    "name": "Homomorphic Encryption (Allows modification to encrypted data without decrypting it)",
+                    "implementations": []
+                },
+                {
+                    "name": "Voting Systems that use homomorphic encryption",
+                    "implementations": []
+                }
+            ]
+        },
+        {
+            "name": "Video Game Engines",
+            "potentialApplications": [
+                {
+                    "name": "Training Simulators",
+                    "implementations": ["Finnairs VR version of Helsinki Airport"]
+                },
+                {
+                    "name": "Virtual Reality",
+                    "implementations": ["Finnairs VR version of Helsinki Airport"]
+                }
+            ]
+        },
+        {
+            "name": "Augmented Reality",
+            "potentialApplications": [
+                {
+                    "name": "Art Creation",
+                    "implementations": []
+                },
+                {
+                    "name": "Games",
+                    "implementations": []
+                },
+                {
+                    "name": "Walking Tours",
+                    "implementations": []
+                },
+                {
+                    "name": "Map Overlays",
+                    "implementations": []
+                },
+                {
+                    "name": "Display artwork in physical world",
+                    "implementations": []
+                }
+            ]
+        },
+        {
+            "name": "Blockchain",
+            "potentialApplications": [
+                {
+                    "name": "Data Storage",
+                    "implementations": []
+                },
+                {
+                    "name": "Data transfer",
+                    "implementations": []
+                },
+                {
+                    "name": "Crypto-currency's",
+                    "implementations": []
+                }
+            ]
+        }
+    ]
+}
