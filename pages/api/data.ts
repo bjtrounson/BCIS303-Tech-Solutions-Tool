@@ -60,19 +60,19 @@ export default function handler(
 ) {
   if (!req.query.application) {
     if (!req.query.concept) {
-      res.status(200).json(sortData('', data.techConcepts))
+      res.send((sortData('', data.techConcepts)))
     }
     const concept: string = req.query.concept as string
     let filteredData = sortData('', data.techConcepts)
-    res.status(200).json(sortDataByConcept(concept, filteredData))
+    res.send((sortDataByConcept(concept, filteredData)))
   } else {
     if (!req.query.concept) {
       const application: string = req.query.application as string
-      res.status(200).json(sortData(application, data.techConcepts))
+      res.send((sortData(application, data.techConcepts)))
     }
     const application: string = req.query.application as string
     const concept: string = req.query.concept as string
     let filteredData = sortData(application, data.techConcepts)
-    res.status(200).json(sortDataByConcept(concept, filteredData))
+    res.send((sortDataByConcept(concept, filteredData)))
   }
 }

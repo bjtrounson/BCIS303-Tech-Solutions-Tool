@@ -11,5 +11,5 @@ function getConcepts(data: Data) {
 }
 
 export default function handler (req: NextApiRequest, res: NextApiResponse) {
-    res.status(200).json(getConcepts(data))
+    res.send((getConcepts(data)));
 }
